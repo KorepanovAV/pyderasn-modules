@@ -1,3 +1,6 @@
 # pyderasn-modules
 
-Based on [PyDERASN](http://pyderasn.cypherpunks.ru/) – strict and fast ASN.1 DER/BER library for Python.
+The `pyderasn-modules` repository contains a collection of
+[ASN.1](https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.208-198811-W!!PDF-E&type=items)
+data structures expressed as Python classes based on [PyDERASN](http://pyderasn.cypherpunks.ru)
+data model.
