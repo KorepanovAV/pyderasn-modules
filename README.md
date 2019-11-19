@@ -9,8 +9,8 @@ data model.
 
 ## Run
 
-python -m cms_schema --nobered --allow-expl-oob --schema cms_schema:ContentInfo --oids oids:oids "sign.der" >dump
+python -m cms_schema --nobered --allow-expl-oob --schema cms_schema:ContentInfo --oids oids:oids "sign.der"
 
 ## Result
 
-[dump](https://korepanovav.github.io/pyderasn-modules/)
+[Result in console](https://korepanovav.github.io/pyderasn-modules/)
