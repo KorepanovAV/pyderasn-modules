@@ -7,4 +7,10 @@ data model.
 
 # Usage
 
-python -m cms_schema --nobered --allow-expl-oob --schema cms_schema:ContentInfo --oids oids:oids "sign.der"
+## Run
+
+python -m cms_schema --nobered --allow-expl-oob --schema cms_schema:ContentInfo --oids oids:oids "sign.der" >dump
+
+## Result
+
+[dump](https://korepanovav.github.io/pyderasn-modules/)
